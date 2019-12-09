@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:graphql_flutter/graphql_flutter.dart';
 
-void main() => runApp(MaterialApp(
+void main() => runApp(
+
+  MaterialApp(
   title: "Github with GraphQL",
   debugShowCheckedModeBanner: false,
   home: MyApp()));
@@ -18,7 +20,7 @@ class _MyAppState extends State<MyApp> {
     final HttpLink httpLink = HttpLink(
     uri: 'https://api.github.com/graphql',
     headers: {
-      "authorization": "Bearer b193c18c2b10298c580e06e3ced5a8b8051c2ec5 "
+      "authorization": "Bearer 8ac9e796b0e646c5fd83ec213c07f44ece358aa5"
     }
   );
 
@@ -87,7 +89,8 @@ class _MyHomePageState extends State<MyHomePage> {
       
       builder: (QueryResult result, { VoidCallback refetch, FetchMore fetchMore }) {
         if (result.errors != null) {
-          return Text(result.errors.toString());
+          return Center(child: Text(result.errors.toString(), style: TextStyle(fontSize: 16), 
+          textAlign: TextAlign.center,));
         }
 
         if (result.loading) {
