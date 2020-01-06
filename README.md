@@ -1,16 +1,15 @@
 # git_with_graphql
 
-A new Flutter project.
+This is a simple project that will help you learn how to build a Github app from scratch using Flutter and GraphQL.
 
-## Getting Started
+You can read an article about this project, which is on medium: https://medium.com/@promise_amadi/build-a-github-app-with-flutter-and-graphql-like-a-pro-63f464922196
 
-This project is a starting point for a Flutter application.
+<img src="https://miro.medium.com/max/2854/1*bL-HMEI958-8AJnsXcwt5A.jpeg"  title="payment_app">
 
-A few resources to get you started if this is your first Flutter project:
+Contact - Let's become friends
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<a href="https://twitter.com/Promise_Amadi1">Twitter</a></br>
+<a href="https://github.com/Wizpna">Github</a></br>
+<a href="https://www.linkedin.com/in/promise-amadi-101759a1/">Linkedin</a></br>
+<a href="https://www.facebook.com/promise.nzubechi.amadi">Facebook</a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
