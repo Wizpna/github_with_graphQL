@@ -4,6 +4,8 @@ This is a simple project that will help you learn how to build a Github app from
 
 You can read an article about this project, which is on medium: https://medium.com/@promise_amadi/build-a-github-app-with-flutter-and-graphql-like-a-pro-63f464922196
 
+<h4>If you find this repo helpful to you, please don't forget to star ⭐ the repo 😉, it's FREE. </h4>
+
 <img src="https://miro.medium.com/max/2854/1*bL-HMEI958-8AJnsXcwt5A.jpeg"  title="payment_app">
 
 Contact - Let's become friends
